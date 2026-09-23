@@ -1,0 +1,75 @@
+# Value-Added Courses, Admissions & Department Details: New Horizon College of Engineering (NHCE)
+
+## Value-Added Courses & Industry Certifications
+
+### Course Structure & Career Pathways
+- Overview: Industry-certification-based value-added courses designed to enhance domain expertise and employability.
+- Minor Degrees: Specialized Minor Degrees in Emerging Areas as per AICTE guidelines to complement major engineering programs.
+
+| Domain Specialization | Tech Course 1 (Foundation) (60 hrs) [Sem 4 & 5] | Tech Course 2 (Advanced) (60 hrs) [Sem 6 & 7] | Target Job Roles & Recruiters |
+| :--- | :--- | :--- | :--- |
+| DevOps | Microsoft Certified: Azure Developer Associate | Microsoft Certified: Designing and Implementing DevOps Solutions | DevOps Engineer (Goldman Sachs, Altran, Siemens, Capgemini, TCS, HCL) |
+| Ethical Hacking & Forensic Investigation | EC-Council Certified Ethical Hacker (CEH) | Forensic Investigator Certification | Security Architect, CISO, Security Analyst, Cyber Security Lead (General Motors, Sony, Verizon) |
+| Tableau / Business Intelligence | Tableau Desktop Specialist | Tableau Certified Data Analyst | Data Analyst, Data Scientist, BI Developer/Manager (KPMG, Deloitte, IBM, Wells Fargo, Accenture) |
+| AWS Cloud Architect | AWS Certified Cloud Practitioner | AWS Certified Solutions Architect | AWS Cloud Architect (Wipro, Infosys, Mindtree) |
+| Full Stack Development | IBM Full Stack Software Developer Professional Certificate | Advanced Full Stack Development | Full Stack Developer, Software Engineer, Automation Engineer (MNCs) |
+| Digital VLSI Design | SystemVerilog Training & Coursera Certification | Universal Verification Methodology (UVM) Training | SystemVerilog Engineer, SoC Engineer, Design Verification Engineer (Intel) |
+| Embedded Systems & IoT | ARM Certification: Embedded Systems Essentials (Getting Started) | ARM Certification: Embedded Systems Essentials (Get Practical with Hardware) | Embedded Software Engineer, Embedded Test Engineer, ARM Designer/Developer |
+| Digital Manufacturing Technologies | IMTMA Certification on Manufacturing Tech & Trinity NDT Certification | Bosch Certification on Autotronics | Robotics Engineer, Mechanical Design Engineer, Manufacturing Solution Engineer |
+
+---
+
+## B.E. Admissions Guidelines
+
+### Eligibility Criteria
+- Qualifying Exam: Passed 10+2 / 2nd PUC / Equivalent examination with English as a language subject.
+- Subjects Required: Minimum aggregate of **45%** in Physics and Mathematics as compulsory subjects, along with Chemistry / Bio-Technology / Computer Science / Electronics / Biology.
+- Category Relaxation: SC/ST and OBC (Categories 1, 2A, 2B, 3A, 3B) candidates from Karnataka require a minimum aggregate of **40%** in optional subjects.
+
+### Course Duration
+- Duration: 4 Academic Years (8 Semesters).
+- Semester Length: 16 weeks per semester.
+
+### Admission Modes
+1. Karnataka Common Entrance Test (KCET): Administered by Karnataka Examination Authority (KEA) for Karnataka domiciles.
+2. Management Quota: Direct admissions based on academic merit (minimum 45% aggregate score). Sports Quota scholarships are available for eligible athletes.
+
+### Documents Required for Admission
+- 10th / SSLC Marks Card (Original + 2 sets of Photocopies)
+- 12th / PUC Marks Card (Original + 2 sets of Photocopies)
+- Transfer Certificate (Original + 2 sets of Photocopies)
+- Caste Certificate (For Karnataka SC/ST candidates only)
+- Migration Certificate (Original + 2 sets of Photocopies, for non-Karnataka boards)
+- Photographs: 4 Passport size + 4 Stamp size
+
+---
+
+## Department & B.E. Program Overviews
+
+### Department of Computer Science & Engineering (CSE)
+- Established: 2001
+- Accreditation: Accredited by the National Board of Accreditation (NBA).
+- Student/Faculty Strength: Motivated faculty team serving 700+ students.
+- Innovation & Research: 31 patents filed by the department.
+- Infrastructure: 16 in-house laboratories and 6 industry-sponsored labs (Cisco, Quest Global IIoT, Indo-French Center of Excellence, SAP, VMware IT Academy).
+
+### Department of Artificial Intelligence & Machine Learning (AIML)
+- Focus: Intelligent problem-solving, data analytics, and machine learning systems.
+- Laboratories: Data Structures Lab, USP Lab, ADE Lab, OOP Lab, Microprocessor Lab, ADA Lab, DBMS Lab, Networks Lab, Java Lab, Mobile Application Development Lab, Web Technologies Lab, Software Testing Lab.
+
+### Department of Electronics & Communication Engineering (ECE)
+- Established: 2001
+- Innovation & Research: 40 patents filed by the department.
+- Research Divisions: Semiconductor Technologies, IoT-based Embedded Systems, Next-Generation Communication Systems, RF Power & Energy Systems, Advanced Signal/Image Processing.
+- Industry Partners: IBM, HP, Texas Instruments, Sankalp Semiconductors, Audience Communication, Intel, ISRO, IISc.
+
+### Department of Electrical & Electronics Engineering (EEE)
+- Established: 2001
+- Innovation & Research: 44 patents filed by the department.
+- Laboratories: 10 in-house laboratories plus industry-sponsored labs (Indo-French Center of Excellence - IFCEEAE, Cisco Networking Academy, Quest Global, Schneider Electric, SAP Next-Gen Lab, HPE Vertica CoE, VMware IT Academy).
+
+### Department of Mechanical Engineering (ME)
+- Established: 2003
+- Innovation & Research: 108 patents filed by the department.
+- Specialized Laboratories: Heat Transfer Lab, Metrology & Measurement Lab, Machine Shop, Advanced Manufacturing Lab, CAD Lab, Metallography Lab, Design Lab, Fluid Mechanics & Machinery Lab, Foundry & Forging Lab, Workshop Lab, Energy Conversion Lab.
+- Sustainability Initiatives: Installed wind turbines and solar panels on campus, fulfilling a significant portion of the college's energy needs.

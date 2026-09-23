@@ -1,0 +1,20 @@
+# Academic Departments & Degree Programs: New Horizon College of Engineering (NHCE)
+
+## Undergraduate (UG) Departments & Programs – B.E. (4 Years)
+- Department of Artificial Intelligence and Machine Learning (AIML)
+- Department of Applied Sciences (Basic Sciences & Humanities for 1st Year)
+- Department of Computer Science & Engineering (Data Science)
+- Department of Computer Science & Engineering (CSE)
+- Department of Computer Engineering
+- Department of Electronics & Communication Engineering (ECE)
+- Department of Electrical & Electronics Engineering (EEE)
+- Department of Information Science & Engineering (ISE)
+- Department of Mechanical Engineering (ME)
+
+## Postgraduate (PG) Programs (2 Years)
+- Master of Business Administration (MBA)
+- Master of Computer Applications (MCA)
+- M.Tech in Computer Science & Engineering
+
+## Research Programs (Ph.D. / M.Sc. Engg. by Research)
+- VTU Recognized Research Centers across CSE, ISE, EEE, ECE, Mechanical Engineering, MCA, Management Studies, Mathematics, and Chemistry.

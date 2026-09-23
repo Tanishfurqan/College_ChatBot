@@ -1,0 +1,8 @@
+Q: How many departments does NHCE have?
+A: NHCE has 9 departments under the undergraduate B.E. program: Computer Science & Engineering (CSE), CSE (Artificial Intelligence & Machine Learning), CSE (Data Science), Computer Engineering, Information Science & Engineering (ISE), Electronics & Communication Engineering (ECE), Electrical & Electronics Engineering (EEE), Mechanical Engineering (ME), and Applied Sciences (for 1st year).
+
+Q: How many branches does NHCE offer?
+A: NHCE offers 9 branches/departments as listed above.
+
+Q: What are the branches at NHCE?
+A: The branches are CSE, CSE (AI&ML), CSE (Data Science), Computer Engineering, ISE, ECE, EEE, ME, and Applied Sciences.
