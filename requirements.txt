@@ -1,4 +1,3 @@
-
 streamlit
 chromadb==0.6.3
 sentence-transformers
@@ -6,3 +5,4 @@ ollama
 langchain
 langchain-text-splitters
 pypdf
+groq
