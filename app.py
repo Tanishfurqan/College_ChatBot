@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Connect to the same Chroma database you already saved
-client = chromadb.PersistentClient(path="chroma_db")
+client = chromadb.Client()
 collection = client.get_or_create_collection(name="college_data")
 
 # Load the embedding model (cached so it doesn't reload on every question)
